@@ -1,5 +1,4 @@
-# hannah-beyersdorf.github.io
-## Final Project
+# Hannah Beyersdorf
 
 ### Self Assessment:
 
@@ -8,13 +7,14 @@
 ### Category One: Software Design and Engineering
 - [Original Artifact](https://github.com/hannah-beyersdorf/hannah-beyersdorf.github.io/blob/main/ArtifactOne.zip)
 - [Enhanced Artifact](https://github.com/hannah-beyersdorf/hannah-beyersdorf.github.io/blob/main/EnhancementOne.zip)
-- Narrative:
+### Narrative:
   The artifact I used for this enhancement is my Inventory App from CS360: Mobile Architect and Programming. This app was the main project for that course, which I took from May to June 2026. The purpose of this app is to provide an easy way for users to manage their inventory. Users can add items with quantities and update or remove them as needed. SMS notifications can be enabled to alert the user of low stock. I chose this artifact for enhancement of Category One: Software Engineering and Design because while my original project did work as intended, it did leave a lot of room for improvement. The enhancement I completed showcases my skills in identifying shortcomings and adding functionality to improve usability. I had to change a few components, such as the update button to allow for smooth integration of the decrement logic. Users can now change the quantity by either adding one, or subtracting one, rather than only being able to add or delete the item altogether. “Rename” buttons were added so that users can edit any item name. I also added logic to avoid users from adding duplicate items.
 I met the planned course outcome for this enhancement by adding several design and computing solutions to improve my app. I added new buttons, changed the color of the “Delete” buttons, and introduced new ways for users to change their inventory items. Course outcome #4 is also met here, since I used my improved skills to make this inventory app more usable and to better represent industry goals. One challenge I faced here was editing the item names. I had noticed that after entering a new name, it would revert back to the old name once another action occurred. The fix here was to save the new name to the database once the user hits the “return” key on the keyboard. Overall, I learned how to utilize my improved skills to add and update this project that I completed only a few months ago.
 
 ### Category Two: Algorithms and Data Structures
 - [Original Artifact](https://github.com/hannah-beyersdorf/hannah-beyersdorf.github.io/blob/main/ArtifactTwo.cpp)
 - [Enhanced Artifact](https://github.com/hannah-beyersdorf/hannah-beyersdorf.github.io/blob/main/EnhancementTwo.zip)
+  
  ### Narrative:
  The artifact I chose for enhancement Category #2 is Project 2 from CS300: DSA Analysis and Design. I completed this project in October 2025 with the purpose of allowing the user to access and view courses from a course list. The user has options to load data from a file, print the course list, print a course, and exit the program. I selected this artifact because this is a project I made about a year ago, so I wanted to revisit it to see how much my skills have improved. This project provides a good opportunity to show how I can increase efficiency when using data. It shows my ability to handle data through the use of a vector to store the available courses. For my enhancement, I added an additional menu option that allows the user to search for a course by course name or course number. When they select the “Search Courses” option they can then enter either a course number or course name to search for their desired course.
 I met course outcome #3 with this enhancement by adding a search feature to make it easier for users to find a specific course using a course name or course number. I currently do not have any changes in plans for the outcome-coverage. As I was working on this enhancement, I realized how far I have come. Over the course of the program, I have learned the importance of looking at a project not just as a developer, but as a user. When I approached this artifact again, I thought about what I would find frustrating as a user and I improved that. While working on it, the main challenge I faced was case sensitivity. I wanted a user to be able to type in their course name, but then I realized that if they didn’t use capitalization, it would show no matching results. I was able to fix this by using tolower() before comparing the user input to the existing courses. Now users can search “discrete mathematics” and they’ll get “MATH201, Discrete Mathematics” as a result
