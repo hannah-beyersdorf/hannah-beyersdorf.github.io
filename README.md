@@ -6,16 +6,16 @@
 ### [Code Review](https://github.com/hannah-beyersdorf/hannah-beyersdorf.github.io/blob/main/CodeReview.mp4)
 
 ### Category One: Software Design and Engineering
-- [Original Artifact]
+- [Original Artifact](https://github.com/hannah-beyersdorf/hannah-beyersdorf.github.io/blob/main/ArtifactOne.zip)
 - [Enhanced Artifact](https://github.com/hannah-beyersdorf/hannah-beyersdorf.github.io/blob/main/EnhancementOne.zip)
-- Narrative
+- Narrative:
   
 ### Category Two: Algorithms and Data Structures
-- [Original Artifact]
+- [Original Artifact](https://github.com/hannah-beyersdorf/hannah-beyersdorf.github.io/blob/main/ArtifactTwo.cpp)
 - [Enhanced Artifact](https://github.com/hannah-beyersdorf/hannah-beyersdorf.github.io/blob/main/EnhancementTwo.zip)
-- Narrative
+- Narrative:
 
 ### Category Three: Databases
-- [Original Artifact]
-- [Enhanced Artifact]
-- Narrative
+- [Original Artifact](https://github.com/hannah-beyersdorf/hannah-beyersdorf.github.io/blob/main/ArtifactOne.zip)
+- [Enhanced Artifact](https://github.com/hannah-beyersdorf/hannah-beyersdorf.github.io/blob/main/EnhancementThree.zip)
+- Narrative:
