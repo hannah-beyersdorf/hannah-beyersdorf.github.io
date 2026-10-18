@@ -3,19 +3,19 @@
 
 ### Self Assessment:
 
-### Code Review: (https://github.com/hannah-beyersdorf/hannah-beyersdorf.github.io/blob/main/CodeReview.mp4)
+### [Code Review:](https://github.com/hannah-beyersdorf/hannah-beyersdorf.github.io/blob/main/CodeReview.mp4)
 
 ### Category One: Software Design and Engineering
-- Original Artifact
-- Enhanced Artifact
-- Narrative
+- [Original Artifact]
+- [Enhanced Artifact]
+- [Narrative]
   
 ### Category Two: Algorithms and Data Structures
-- Original Artifact
-- Enhanced Artifact
-- Narrative
+- [Original Artifact]
+- [Enhanced Artifact]
+- [Narrative]
 
 ### Category Three: Databases
-- Original Artifact
-- Enhanced Artifact
-- Narrative
+- [Original Artifact]
+- [Enhanced Artifact]
+- [Narrative]
