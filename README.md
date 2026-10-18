@@ -3,7 +3,7 @@
 
 ### Self Assessment:
 
-### Code Review: 
+### Code Review: [https://github.com/hannah-beyersdorf/hannah-beyersdorf.github.io/blob/main/CodeReview.mp4]
 
 ### Category One: Software Design and Engineering
 - Original Artifact
